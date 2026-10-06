@@ -2,26 +2,26 @@
 
 ### Engineering Graduate | Python | SQL | Web Development | AI/ML
 
-I'm an engineering graduate passionate about technology, continuous learning, and building practical solutions.
+I'm an engineering graduate passionate about technology, problem solving, and continuous learning.
 
-I enjoy understanding how things work, solving problems, and continuously improving my technical skills through hands-on projects and practice.
+I enjoy understanding how things work, building practical projects, and improving my technical skills through hands-on practice.
 
-Currently, I am focusing on **Python, SQL, JavaScript, React, backend development, and problem solving**, while preparing for software engineering opportunities.
+Currently, I am strengthening my skills in **Python, SQL, JavaScript, React, backend development, and Data Structures & Algorithms**, while preparing for software engineering opportunities.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Engineering Graduate
-- 💻 Currently strengthening my **Python & SQL** skills
-- 🌐 Learning and building with **HTML, CSS, JavaScript & React**
-- ⚙️ Exploring **FastAPI & Django** for backend development
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💻 Strongly focusing on **Python and SQL**
+- 🌐 Learning **HTML, CSS, JavaScript and React**
+- ⚙️ Exploring **FastAPI and Django** for backend development
+- 🤖 Interested in **Artificial Intelligence and Machine Learning**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🗄️ Interested in **Databases and Backend Development**
-- 🛠️ Learning **Git, GitHub & Docker**
-- 🎯 Currently preparing for **technical interviews and software engineering roles**
-- 🌱 Always learning and improving through hands-on practice
+- 🛠️ Learning **Git, GitHub and Docker**
+- 🎯 Preparing for **technical interviews and software engineering roles**
+- 🌱 Continuously learning through projects and hands-on practice
 
 ---
 
@@ -48,7 +48,7 @@ Currently, I am focusing on **Python, SQL, JavaScript, React, backend developmen
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Currently, I am focusing on **Python, SQL, JavaScript, React, backend developmen
 
 ---
 
-### 🛠️ Tools & Development
+### 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
@@ -83,23 +83,23 @@ Currently, I am focusing on **Python, SQL, JavaScript, React, backend developmen
 
 ---
 
-## 📚 Core Concepts
+## 📚 Technical Concepts
 
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Exception Handling
 - Multithreading
-- REST APIs
-- Database Design
 - SQL Queries
+- Database Design
 - CRUD Operations
 - DOM Manipulation
 - Asynchronous JavaScript
+- REST APIs
 - Problem Solving
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🐾 PawPal
 
@@ -150,32 +150,6 @@ A machine-learning project focused on fruit classification using image-based ana
 - 📄 Published research work
 - 🏆 Participated in a **Business Plan Competition**
 - 📚 Completed Full-Stack Development training
-- 💻 Building projects while strengthening programming fundamentals
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshaV2902&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaV2902&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VarshaV2902&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshaV2902&theme=github-compact&hide_border=true"/>
-</p>
 
 ---
 
@@ -193,20 +167,21 @@ A machine-learning project focused on fruit classification using image-based ana
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 
-  <!-- Instagram -->
+  <!-- Instagram - Add only if you want it visible professionally -->
   <a href="YOUR_INSTAGRAM_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 
 </p>
 
-📧 **Email:** varshav2904@gmail.com
+📧 **Email:** YOUR_PROFESSIONAL_EMAIL
+
 ---
 
 ## 💡 My Learning Philosophy
 
 > **Learn → Build → Practice → Improve → Repeat**
 
-I'm continuously working on becoming a better problem solver, building practical projects, and preparing myself for real-world software engineering opportunities.
+I am continuously working on strengthening my technical foundation, building practical projects, and becoming a better problem solver.
 
 ### ⭐ Thanks for visiting my profile!
