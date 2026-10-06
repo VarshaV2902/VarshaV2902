@@ -181,8 +181,6 @@ A machine-learning project focused on fruit classification using image-based ana
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <p align="left">
 
   <!-- GitHub -->
@@ -202,7 +200,7 @@ A machine-learning project focused on fruit classification using image-based ana
 
 </p>
 
-📧 **Email:** YOUR_EMAIL@gmail.com
+📧 **Email:** varshav2904@gmail.com
 ---
 
 ## 💡 My Learning Philosophy
