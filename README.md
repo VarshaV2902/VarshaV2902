@@ -181,16 +181,28 @@ A machine-learning project focused on fruit classification using image-based ana
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/VarshaV2902">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+## 📫 Connect With Me
+
+<p align="left">
+
+  <!-- GitHub -->
+  <a href="https://github.com/VarshaV2902" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-  <!-- Add your LinkedIn URL below -->
-  <!-- <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a> -->
+
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+
 </p>
 
+📧 **Email:** YOUR_EMAIL@gmail.com
 ---
 
 ## 💡 My Learning Philosophy
